@@ -84,7 +84,15 @@ Follow these steps to run the Face Attendance System on your computer:
 6. **Enjoy:**
    - Open your web browser and go to [http://localhost:8000](http://localhost:8000).
    - Explore the Face Attendance System and its features.
-
+   - Admin Credentials Are :
+        - User : admin
+        - Password : admin
+        - 
+## Facing Errors / Issues ???  ##
+  - Please Add the Photos before training the model. ( images of 2 => User)
+  - Model Captures almost 300 Images of per/person.
+  - Must Install Libraries Given in the  requirements.txt file.
+    
 **Note:**
 - Customize placeholders, links, and paths accordingly.
 - Make sure to have the required file in the specified directory.
