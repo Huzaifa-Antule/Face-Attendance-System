@@ -5,7 +5,7 @@ The Face Attendance System is a project designed to automate attendance tracking
 
 Facial recognition technology is evolving, playing a crucial role in security and accessibility. This project demonstrates its effectiveness in recognizing individuals, with potential applications in various domains such as ATMs, accessing confidential files, and more. The system serves as a versatile tool for corporate offices, schools, and organizations to modernize attendance management and generate comprehensive reports.
 
-### Dependencies
+### Dependencies :
 
 - Python version 3.7
 - [shape_predictor_68_face_landmarks (1).dat](https://doc-14-5s-docs.googleusercontent.com)
@@ -87,10 +87,10 @@ Follow these steps to run the Face Attendance System on your computer:
    - Admin Credentials Are :
         - User : admin
         - Password : admin
-        - 
+     
 ## Facing Errors / Issues ???  ##
   - Please Add the Photos before training the model. ( images of 2 => User)
-  - Model Captures almost 300 Images of per/person.
+  - Model Captures almost 300 Images of per person.
   - Must Install Libraries Given in the  requirements.txt file.
     
 **Note:**
